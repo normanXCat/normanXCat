@@ -30,10 +30,10 @@ I’m passionate about clean code, performance, and solving real-world problems.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NormanVonizara&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=normanXCat&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NormanVonizara&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=normanXCat&layout=compact&theme=tokyonight)
