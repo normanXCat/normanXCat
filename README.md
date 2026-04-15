@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Norman&fontSize=80&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Network%20Administrator&descAlignY=58&descSize=18&descColor=a0c4d8&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,30:0d1b2a,70:0a1628,100:0a0e1a&height=200&section=header&text=NORMAN&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20Network%20Administrator%20%E2%80%A2%20Madagascar&descAlignY=68&descSize=13&descColor=00d4ff&animation=fadeIn&fontAlign=50&stroke=00d4ff&strokeWidth=1" width="100%" />
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+modern+web+applications+%F0%9F%9A%80;Designing+reliable+network+infrastructures+%F0%9F%8C%90;Clean+code+%7C+Performance+%7C+Real-world+solutions+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+modern+web+applications+%F0%9F%9A%80;Designing+reliable+network+infrastructures+%F0%9F%8C%90;Clean+code+%7C+Performance+%7C+Real-world+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -98,12 +100,16 @@ focus:
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,30:0a1628,70:0d1b2a,100:0a0e1a&height=120&section=footer&text=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&fontSize=14&fontColor=00d4ff&fontAlignY=45&desc=REACT+%E2%80%A2+LARAVEL+%E2%80%A2+NODE.JS+%E2%80%A2+DOCKER+%E2%80%A2+NEXT.JS&descAlignY=72&descSize=10&descColor=4a7fa5&animation=fadeIn&fontAlign=50&stroke=00d4ff&strokeWidth=1" width="100%" />
 
-*"First, solve the problem. Then, write the code."*
+<br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=normanXCat.normanXCat)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=normanXCat.normanXCat&color=00d4ff)
 
 </div>
