@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+modern+web+applications+%F0%9F%9A%80;Designing+reliable+network+infrastructures+%F0%9F%8C%90;Clean+code+%7C+Performance+%7C+Real-world+solutions+%E2%9C%A8)](https://git.io/typing-svg)
@@ -54,7 +52,7 @@ focus:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-00d4ff?style=for-the-badge&logo=deploy&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-00d4ff?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -63,28 +61,39 @@ focus:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=normanXCat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normanXCat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=normanXCat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normanXCat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=normanXCat&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
 
----
+<img src="https://streak-stats.demolab.com/?user=normanXCat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=normanXCat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activité GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=normanXCat&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=normanXCat&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Me contacter
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-normanXCat-181717?style=for-the-badge&logo=github)](https://github.com/normanXCat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Norman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+
 </div>
 
 ---
@@ -94,5 +103,7 @@ focus:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 *"First, solve the problem. Then, write the code."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=normanXCat.normanXCat)
 
 </div>
