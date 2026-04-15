@@ -4,11 +4,11 @@
 <!--                        HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,30:0d1b2a,70:0a1628,100:0a0e1a&height=200&section=header&text=NORMAN&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20Network%20Administrator%20%E2%80%A2%20Madagascar&descAlignY=68&descSize=13&descColor=00d4ff&animation=fadeIn&fontAlign=50&stroke=00d4ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=NORMAN&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Network%20Administrator%20%E2%80%A2%20Madagascar&descAlignY=65&descSize=13&descColor=a78bfa&animation=fadeIn&fontAlign=50&stroke=8b5cf6&strokeWidth=1" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+modern+web+applications+%F0%9F%9A%80;Designing+reliable+network+infrastructures+%F0%9F%8C%90;Clean+code+%7C+Performance+%7C+Real-world+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+modern+web+applications+%F0%9F%9A%80;Designing+reliable+network+infrastructures+%F0%9F%8C%90;Clean+code+%7C+Performance+%7C+Real-world+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,7 +54,7 @@ focus:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-00d4ff?style=for-the-badge&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-8B5CF6?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -94,7 +94,7 @@ focus:
 
 [![GitHub](https://img.shields.io/badge/GitHub-normanXCat-181717?style=for-the-badge&logo=github)](https://github.com/normanXCat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Norman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)
 
 </div>
 
@@ -106,10 +106,10 @@ focus:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,30:0a1628,70:0d1b2a,100:0a0e1a&height=120&section=footer&text=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&fontSize=14&fontColor=00d4ff&fontAlignY=45&desc=REACT+%E2%80%A2+LARAVEL+%E2%80%A2+NODE.JS+%E2%80%A2+DOCKER+%E2%80%A2+NEXT.JS&descAlignY=72&descSize=10&descColor=4a7fa5&animation=fadeIn&fontAlign=50&stroke=00d4ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=130&section=footer&text=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22&fontSize=14&fontColor=c4b5fd&fontAlignY=45&desc=REACT+%E2%80%A2+LARAVEL+%E2%80%A2+NODE.JS+%E2%80%A2+DOCKER+%E2%80%A2+NEXT.JS&descAlignY=72&descSize=10&descColor=6366f1&animation=fadeIn&fontAlign=50&stroke=8b5cf6&strokeWidth=1" width="100%" />
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=normanXCat.normanXCat&color=00d4ff)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=normanXCat.normanXCat&color=8b5cf6)
 
 </div>
